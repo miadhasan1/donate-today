@@ -23,7 +23,7 @@ body {
 }
 
 .header-part-child-1 {
-    padding-top: 200px;
+    padding-top: 135px;
 }
 
 .header-part h1 {
@@ -44,6 +44,8 @@ body {
 
 /* end header part */
 
+
+
 .tk-donate-part {
     text-align: center;
     color: black;
@@ -54,4 +56,41 @@ body {
 
 .tk-donate-part h1 {
     font-size: 70px;
+}
+
+.tk-donate-part p {
+    font-size: 23px;
+}
+
+.amount {
+    display: inline-flex;
+    font-size: 30px;
+    font-weight: 900;
+    width: 0 auto;
+    height: 50%;
+    background-color: beige;
+    padding: 30px 25px;
+    border: solid beige 2px;
+    border-radius: 5px;
+    margin-right: 10px;
+
+}
+
+#amount-2 {
+    background-color: rgb(247, 163, 132);
+    border: solid red 2px;
+    border-radius: 5px;
+}
+
+
+.button-tk-donate-part {
+    font-size: 25px;
+    text-decoration: none;
+    background-color: coral;
+    border: solid coral;
+    padding: 10px 40px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 700;
+    margin-top: 100px;
 }
