@@ -27,7 +27,7 @@ body {
 }
 
 .header-part h1 {
-    font-size: 70px;
+    font-size: 50px;
 }
 
 .button-header {
@@ -55,7 +55,7 @@ body {
 }
 
 .tk-donate-part h1 {
-    font-size: 70px;
+    font-size: 50px;
 }
 
 .tk-donate-part p {
@@ -102,7 +102,7 @@ body {
 /* tk-donate-part end */
 
 .plan-one h1 {
-    font-size: 70px;
+    font-size: 50px;
 }
 
 .plan-one p {
@@ -157,4 +157,33 @@ body {
     width: 60px;
     height: 60px;
 
+}
+
+/* end of part one */
+
+
+.lives-donation {
+    margin-top: 150px;
+    display: inline-flex;
+    width: 80%;
+    margin-left: 10%;
+}
+
+.writting {
+    margin-right: 30px;
+    height: 350px;
+    width: 550px;
+}
+
+.writting h1 {
+    font-size: 50px;
+}
+
+.writting p {
+    font-size: 23;
+}
+
+.img-part img {
+    height: 400px;
+    width: 450px;
 }
