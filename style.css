@@ -82,6 +82,10 @@ body {
     border-radius: 5px;
 }
 
+.input {
+    color: rgba(0, 0, 0, 0.144);
+    margin: 0 auto
+}
 
 .button-tk-donate-part {
     font-size: 25px;
