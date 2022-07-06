@@ -194,3 +194,67 @@ body {
     height: 350px;
     width: 550px;
 }
+
+/* end of lives donation */
+
+
+.update {
+    margin: 0 auto;
+    width: 80%;
+
+}
+
+.get-up {
+    margin-left: 10%;
+    text-align: center;
+    margin-top: 120px;
+}
+
+.get-up h1 {
+    font-size: 60px;
+}
+
+get-up p {
+    font-size: 23px;
+}
+
+.email-sub {
+    margin-left: 10%;
+    text-align: center;
+    margin-top: 30px;
+    background-color: antiquewhite;
+    height: 130px;
+    padding-top: 100px;
+    border-radius: 5px;
+}
+
+.email-sub input {
+    width: 300px;
+    height: 40px;
+    border-radius: 7px;
+    background-color: rgb(229, 243, 196);
+    margin-top: 10px;
+
+}
+
+/* .email-sub button {
+    width: 120px;
+    height: 40px;
+    border-radius: 7px;
+    background-color: tomato;
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 0;
+} */
+.btn {
+    font-size: 16px;
+    text-decoration: none;
+    background-color: coral;
+    border: solid coral;
+    padding: 10px 40px;
+    border-radius: 7px;
+    color: white;
+    font-weight: 700;
+    margin-top: 100px;
+}
