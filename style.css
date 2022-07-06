@@ -184,6 +184,13 @@ body {
 }
 
 .img-part img {
-    height: 400px;
+    height: 380px;
     width: 450px;
+    border-radius: 5px;
+}
+
+.writting-1 {
+    margin-left: 30px;
+    height: 350px;
+    width: 550px;
 }
