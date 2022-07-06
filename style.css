@@ -98,3 +98,63 @@ body {
     font-weight: 700;
     margin-top: 100px;
 }
+
+/* tk-donate-part end */
+
+.plan-one h1 {
+    font-size: 70px;
+}
+
+.plan-one p {
+    font-size: 23px;
+}
+
+.plan-one {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+}
+
+.donate-plan {
+    display: inline-flex;
+    margin-left: 10%;
+    width: 80%;
+
+}
+
+.plan {
+
+    text-align: center;
+    background-color: aquamarine;
+
+}
+
+#plan-1 {
+    padding: 60px;
+    margin: 20px;
+    height: 270px;
+    width: 450px;
+    background-color: beige;
+}
+
+#plan-2 {
+    padding: 60px;
+    margin: 20px;
+    height: 270px;
+    width: 450px;
+    background-color: aquamarine;
+}
+
+#plan-3 {
+    padding: 60px;
+    margin: 20px;
+    height: 270px;
+    width: 450px;
+    background-color: burlywood;
+}
+
+.donate-plan img {
+    width: 60px;
+    height: 60px;
+
+}
