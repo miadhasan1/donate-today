@@ -233,20 +233,11 @@ get-up p {
     height: 40px;
     border-radius: 7px;
     background-color: rgb(229, 243, 196);
-    margin-top: 10px;
+    margin-top: 1px;
 
 }
 
-/* .email-sub button {
-    width: 120px;
-    height: 40px;
-    border-radius: 7px;
-    background-color: tomato;
-    color: white;
-    font-size: 15px;
-    font-weight: 700;
-    margin-left: 0;
-} */
+
 .btn {
     font-size: 16px;
     text-decoration: none;
@@ -257,4 +248,28 @@ get-up p {
     color: white;
     font-weight: 700;
     margin-top: 100px;
+}
+
+footer {
+    margin: 0 auto;
+    width: 100%;
+}
+
+.foot {
+
+    text-align: center;
+    margin-top: 100px;
+    background-color: black;
+    color: red;
+    padding-top: 30px;
+}
+
+.foot h1 {
+    font-size: 40px;
+    font-family: cursive;
+}
+
+.foot p {
+    font-size: 20px;
+    color: white;
 }
